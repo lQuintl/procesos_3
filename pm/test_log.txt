@@ -1,6 +1,0 @@
-Test Log
-----------------------------------------
-TC1: Archivo válido -> OK
-TC2: Archivo vacío -> Manejado correctamente
-TC3: Valores no numéricos -> Error controlado
-TC4: Todos los x iguales -> Cálculo detecta división por cero

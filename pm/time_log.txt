@@ -1,7 +1,0 @@
-Time Recording Log
-----------------------------------------
-Planificación: 45 min
-Diseño: 30 min
-Codificación: 100 min
-Pruebas: 55 min
-Total: 230 min
