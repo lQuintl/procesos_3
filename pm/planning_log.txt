@@ -1,0 +1,7 @@
+Project Planning Summary
+----------------------------------------
+Tiempo Planeado Total: 200 min
+Tiempo Real Total: 230 min
+LOC Planeadas: 250
+LOC Reales: 265
+Desviación aceptable.
