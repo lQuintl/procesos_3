@@ -1,0 +1,7 @@
+Regresion Lineal Simple - Resultados
+Pares procesados: 10
+B0 = -4.038882
+B1 = 0.168127
+R  = 0.933307
+Ecuacion: y = -4.038882 + 0.168127 * x
+Prediccion para xk=387.000000 => yk=61.026132
